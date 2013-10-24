@@ -1,8 +1,11 @@
 {
     "name": "mihaildev/testextension",
     "type": "yii-extension-test",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "require": {
         "mihaildev/yiicomposer": "2.0.0"
+    },
+    "require-dev":{
+        "mihaildev/yiicomposer": "dev-master"
     }
 }
