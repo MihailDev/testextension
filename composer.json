@@ -1,7 +1,7 @@
 {
     "name": "mihaildev/testextension",
     "type": "yii-extension-test",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "require": {
         "mihaildev/yiicomposer": "2.0.0"
     },
